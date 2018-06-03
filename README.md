@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Title
 
 Telegram bot to collect open.spotify links and put into playlist
@@ -8,3 +9,6 @@ Telegram bot to collect open.spotify links and put into playlist
 2. Register Telegram bot
 3. Correct Dockerfile with Spotify and Telegram token details
 4. Generate container and deploy anywhere
+=======
+# emw-collector
+>>>>>>> e7bcaa2... Initial commit
